@@ -1,0 +1,323 @@
+Solves since Oct 27, 2025
+1. 26
+R' U' F R' B2 R L' B R L F B' L2 U' F2 U' D2 F2 U' R2 L2 B R' U' F
+
+(F2 U' B F' L) //wow JZP
+(U L2 F2 U F2 U) //DR (11)
+L2 B$ D2 B' R2 U2 L2 U2 B'$ //HTR (20)
+L2 D2 B2 D2 L2 D2 //LS (26)
+$=w //fin (26)
+
+
+2. 26
+R' U' F D2 L B2 L' B2 D2 L U2 D' R' B' L' D R' B D2 F2 R2 U2 R' U' F
+
+R2 L B' D //EO (4)
+(B2 L2 F L2 B R2 B2 R') //DR (12)
+B'$ U2 B D2 F L2 F'$ //HTR (19)
+D2 F2$ U2 L2 F2$ U2 L2 //LS (26) $=w //Fin (26)
+
+
+3. 25
+R' U' F D' R D' R2 B' L F R' U' L D2 F2 U2 R2 F2 L2 U2 B' U2 D2 F' R' U' F
+
+F2 L' R B' R //EO (5)
+(U B2 U R2 F) //DR (10)
+(L2 B2 L2 B2 U$ B2 D) //HTR (17)
+R2 B2 D2% L2 B2 L2 B2) //LS (24)
+$=w, %=E' //fin (25)
+
+
+4. 28
+R' U' F U' B2 L2 R2 U F2 D' R2 D' B2 L2 D' L' U2 F R2 U F L R2 U R' U' F
+
+(F' B2 L) //EO (3)
+(U F', R2 D2 F2 D' F2 D' B) //DR (12)
+(U2$ L2 U') D' L2 B2 D'$ F2 D'$ //HTR (21)
+B2 R2 D2 L2 F2 L2 D2 //LS (28)
+$=w //fin (28)
+
+
+5. 19
+R' U' F R2 U2 R2 U' F2 D R2 U' F2 D' R F L B' L2 D R F' D F2 L' R' U' F
+
+(D B2 L) //EO (3)
+F' D2 B F' D //DR (8)
+(B$ U2 R2 B'$ U2 [B]) //HTR (14)
+[B' D2 {U2 B2}] //double slice (17)
+{R2 L2 D2 F2} //slice (19)
+$=w //finish (19)
+
+
+6. 28
+R' U' F R F' R' B' L' D' B2 L' D B2 R' B2 D2 B2 L' F2 L U2 D2 R' U' F
+
+U L F' R' B' //EO (5)
+U D2 L2 D L' D R D' L //2c3 2e (14)
+F2 U' F2 U2$ F2 U$ L2 F2 U% //HTR (23)
+R2 F2 U2$ F2 //LS (27)
+$=w (+0), %=E2(+1) //fin (28)
+
+
+7. 27
+R' U' F D F2 D2 U L2 B2 U F' D' R2 D L2 B D' L U R F2 R' U' F
+
+(L) U F' R
+U, (B' U2& B2 U F2 U) //2c3 4e (11)
+(D2& B'$%) L2 D2 R2 D2 B'$ U2 B //HTR (20)
+D2 B2$ L2 D2 F2 R2 D2 //LS (27) 
+$=w (+0) %=E2 (+1) //fin (28) 
+&=E2 (-1) //fin (27)
+
+
+8. 26
+R' U' F D' L' F2 R2 U' R2 D R2 F2 L2 U' R F D2 F D2 U B F R' U' F
+
+D' B' R' U L
+(B2 U2 F2 D B) //2c4 4e (10)
+R2 U (L2 D$ F2 U'$% L2 B2 U) //HTR (19)
+(F2 D2 B2 R2 B2 L2) //LS (25)
+$=w, %=E2 //fin (26)
+
+
+9. 21
+R' U' F B' R2 F L2 B U2 F2 L2 F' L2 R U L2 B D U F U2 R' D2 L' R' U' F
+
+(D F R U B')
+(D R2 U2 L2 D R) //4b2 4e (11)
+U L2 F2 U'% //HTR (15)
+R2 B2 D2% L2 F2 //LS (20)
+%=E2 (21)
+
+
+10. 26
+R' U' F R2 U R2 F2 R2 U' R2 U' R2 D R F L' R B' R F' D L' D2 U' R' U' F
+
+L (L B' D2 R)
+(D F2 U F B' D F B') //2c3 4e (13)
+(U B2 U$) D'$ //HTR (17)
+R2 F2 D2$ B2 D2$ F2 L2 B2 L2 //LS (26)
+$=w //fin (26)
+
+
+11. 22
+R' U' F D R' U' L' D R2 D F U2 R D2 F2 R U2 R' D2 R2 F' D R' U' F
+
+U' B' L' D
+B, R U2 B2 R2 B //2c3 4e (10)
+(L2 U2 R$ U2 L$ D2 L') //HTR (17)
+(U2 B2 U2 D2 F2) //LS (22)
+$=w //fin (22)
+
+
+12. 28
+R' U' F D2 U2 B2 U2 F L2 F2 U2 F R F D L' R U L2 F D' R' D' R' U' F
+
+(U' F U F)
+(D') R2 F2 R' U2 L' U' //2c4 (11)
+R$ (F2 R'% U2 F2 U2 D2 R' D2 R'$) //HTR (21)
+(U2 R2 F2 U2 B2 D2) //LS (27)
+$=w %=M2 //fin (28)
+
+
+13. 28
+R' U' F R' D2 B U B2 U' R' U2 L2 D2 R2 D2 F L2 F B U2 F2 R U2 R' U' F
+
+B2 D' U B' L
+D2 F2 L2 B' D2 F' U //2c4 (12)
+(F'$ L2 F'$ D2 U2 R2 U2 B'$ U2 D2 L2 F$) //HTR (24)
+(R2 B2 U2 R2) //LS (28)
+$=w
+
+
+14. 24 
+R' U' F L' B' D R' F B' U' F B2 U' L' D F2 U D R2 U2 D B2 R' U' F
+
+D L U' F R'
+F B2 U F' U //2c3 (10)
+L2 F U2 D2 L2 B'% U2 B //HTR (18)
+R2 F2% R2 D2 L2 //LS (23)
+%=S2 //fin (24)
+
+
+15. 26
+R' U' F R2 B2 D R2 U2 F U2 L' B' D L' B2 U2 B2 U2 R' D2 R2 F' R' U' F
+
+B' D F'
+U D, R' B2 L B2 R2 L2 U //4b2 4e (12)
+L (U2 R$ F2 U2 L$ B2 L') //HTR (20)
+(F2 B2 R2 B2 U2 F2) //LS (26)
+$=w
+
+
+16. 25
+R' U' F R2 F2 D R2 F2 D' U2 L D F' D2 F2 R2 F' D U2 L' R2 B' R' U' F
+
+(R U' B F' R)
+(F B2 U R2 L2 D) //2c3 4e (11)
+(R2 B) F2 L2 F R2 L2 U2 B' //HTR (20)
+L2 D2 L2 B2 R2 //fin (25)
+
+
+17. 26
+R' U' F R F2 L B' U2 F2 B' D2 L2 U' R2 F2 L2 D2 B2 L D R B' R' U' F
+
+(F R' U L')
+(U) B' L2 F U2 F U2 B2 D' //4b2 2e (13)
+B'& U2 F'%& U2 ^ $ R2 # //double slice (18)
+#=E $=E' %=w ^=S' &=S2 //26
+
+
+18. 28
+R' U' F U2 F2 U' R2 D2 U2 B2 R2 F' L D2 B' L' D R2 U F' U2 F' R' U' F
+
+D F' R B L
+(D2 F' U2 F' U) //2c3 0e (10)
+I forgot what I did but IDK it was bad and other DRs were also bad //fin (28)
+
+
+19. 26
+R' U' F D2 B2 U2 F2 U F2 U B2 F2 D' L' U L2 U B' L2 D F' D F2 R' U' F
+
+(R F2 R)
+(F D, B F2 R2 F U' F U) //4a1 4e (12)
+F$ L2 U2 L2 F'% R2 F$ //HTR (19)
+D2& R2 D2 F2 U2 L2 D2& //LS (26)
+$=w %=S2 //fin (27)
+&=E2 //to cancel 1 move (26)
+
+
+20. 26
+R' U' F U2 B2 R2 D2 B' U2 F' D2 R2 D2 B2 D L' F D' L' D' U2 B' F R' U' F
+
+U F2 B D'
+F' R B2 L D2 R L2 F' //2c4 (12)
+D2 R'$ B2 R U2 R' F2 B2 D2 L$% //HTR (22)
+F2 L2 U2 //LS (25)
+$=w %=M2//fin (26)
+
+
+21. 23
+R' U' F B2 D' B2 L2 B2 D L2 D' L2 F2 U2 L2 U2 B' L D U F' U R' B2 R' U' F
+
+(F) L B
+L2 B2 D' L U' L' //4b3 (9)
+U$ R2 B2 U L2 U2$ F2 U$ //HTR (17)
+F2 U2 L2 B2 D2 L2 //LS (23)
+$=w //fin +0
+
+
+22. 22
+R' U' F D2 U2 B R2 U2 B2 U2 R2 B2 L2 D' B' U2 B L' B F2 L F' D U' R' U' F
+
+(U) L2 B' U'
+F' (L' F2 U2 L B) //2c3 4e (10)
+(R'$ D2 R$% U2 F2 U2 D2 L) //HTR (18)
+U2 F2 R2% //LS (21)
+$=w %=M2 //fin (22)
+
+
+23. 21
+R' U' F D2 L2 U2 L2 B R2 B' R2 B D2 B' U2 R2 F' U' R' D' U' R D F' R' U' F
+
+(U2 D R)
+(D) //switch on JZP (4)
+U' F2 U' F2 U' L2 B2 D' //4a1 4e (12)
+(B2 L2 B2$ L2 U2 % L2 F$) //LS (19)
+$=w %=S' //fin (21)
+
+
+24. 21
+R' U' F R U2 B2 D2 R U2 L U2 R2 F2 U2 B2 D B' D' R' U' R2 B R2 D R' U' F
+
+(U') L2 B R D
+(B U2 F' R') //2c3 4e (9)
+(F) R2 L2 D2 R2 B'$ D2 B$ //HTR (17)
+L2 [F2 U2 R2 B2] //LS (22)
+$=w, [B2 D2 L2 F2] //fin (21)
+
+
+25. 24
+R' U' F R2 B2 L2 F2 D B2 L2 U2 R D' U2 R' D2 F2 U R' B' D' B R' U' F
+
+F U L B'
+R D2 F2 B2 D' F2 D2 R //4a2 4e (12)
+U'$ B2 U2 B2 L2 D'$ //HTR (18)
+R2 B2 R2 B2 U2 L2 //LS (24)
+$=w +0
+
+
+26. 22
+R' U' F L F2 D2 F' L2 U2 R2 B L2 B R B2 F' R' D F' L U2 R2 B' R' U' F
+
+R2 D' F'
+D (R2 D' R2 D') //2c4 (8)
+(R'%) F2 L$ U2 B2 R D2 R'$ //HTR (16)
+D2 F2 L2 U2 F2 //LS (21)
+$=w %=M2 //fin (22)
+
+
+27. 26
+R' U' F L' D' L U R D' L U' D F' R2 F2 L2 F2 U2 L' B2 L' B R' U' F
+
+(L' D' B' R2 U)
+(R) F' R2 B2 U2 B' [R'] //2c3 (12)
+(F' D2 B U2 R2 L2 F) //HTR (19)
+(D2 R2 D2) //wrong slice (22)
+[U2 R' L F2 L'] //fin (26)
+
+
+28. 24
+R' U' F U' R' U2 F2 D2 U2 L' F2 D2 R2 U2 L2 F' U B D2 F' D L' D2 R' U' F
+
+(D' U' L' U R)
+(B' U' R2 D' L2 B) //4b2 2e (11)
+(F2 U R2 D) //HTR (15)
+(F2 D2 B2 L2 B2 L2 B2 U2 L2) //long but ok
+
+
+29. 23 FMCL 8.8 A1
+R' U' F R' U' L D' F2 D' F2 R2 U' F2 L2 R U' L' B2 L' U B F R' U' F
+
+(U L)
+(B2 D B, D' U' R2 D' U' F2 U B) //4a1 4e (13)
+(D2 F2 U) //HTR (16)
+(L2 B2 R2 B2 U2 R2 F2) //fin (23)
+
+
+30. 26 FMCL 8.8 A2
+R' U' F L B R2 B2 D R2 D' F2 R2 F2 R2 D' F' R B2 D2 L2 F' L2 U' R' U' F
+
+L' (R' F D2 L)
+U2 L2 D L2 D' F //2c4 (11)
+U'% (F2 D L2 F2 U$ B2 U$) //HTR (19)
+(R2 U2 B2 R2 F2 R2) //LS (25)
+$=w, %=E2 //fin (26)
+
+
+31. 26 FMCL 8.8 A3
+R' U' F R D R2 D2 F2 U B2 F2 U2 L2 R' F2 D F L2 R D L D2 R' U' F
+
+(B) L B U F
+B2 L2 U2 R' U //2c4 (10)
+F2 R U2 L2 U2 L' B2 L' F2 U2 L' //HTR (21)
+F2 U2 F2 D2 R2 //fin (26)
+
+
+32. (Dec 25, 2025) FMCL 8.9 A1
+33. (Dec 26, 2025) FMCL 8.9 A2
+34. (Dec 26, 2025) FMCL 8.9 A3
+
+
+35. 24 (Dec 28, 2025)
+R' U' F U2 L2 F2 R2 F2 D2 U2 R D2 R' U' R' F2 R' F D' B L U' R F2 R' U' F
+
+(L F2 D' R')
+L2 F' U2 B' D2 B F2 U //4b2 2e (12)
+(B$ R2 U2 D2 F$%) //HTR (17)
+(D2 L2 D2 L2 B2$ L2) //LS (23)
+$=w %=S2 //+1=24
+
+
+36. (Dec 28, 2025) 333.fm weekly (2026-01) A1
+
