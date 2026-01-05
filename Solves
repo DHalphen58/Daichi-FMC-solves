@@ -320,10 +320,32 @@ L2 F' U2 B' D2 B F2 U //4b2 2e (12)
 $=w %=S2 //+1=24
 
 
-36. (Dec 28, 2025) 333.fm weekly A1 (2026-01)
-37. (Dec 29, 2025) 333.fm weekly A2 (2026-01)
-38. (Dec 29, 2025) 333.fm weekly A3 (2026-01)
+36. 22 (Dec 28, 2025) 333.fm weekly A1 (2026-01)
+R' U' F R2 F2 R F2 L F2 L' U2 L F2 D2 B' D U2 B F2 U L' B2 R D2 R' U' F
 
+D (R' B' D)
+(F) L R' F2 R D2 R2 F' //4a1 4e (12)
+U2 F2 D2 R' # U2 D2 L2 $ //wrong slice (19)
+#=S' $=S //fin (22)
+
+
+37. 24 (Dec 29, 2025) 333.fm weekly A2 (2026-01)
+R' U' F D2 B' D2 L2 U2 L2 B' F2 D2 F2 L B2 D' R2 F2 R D2 F' U' L' R' U' F
+
+(B') L' B'
+(D, L2 B2 L' F2 R' D) //2c3 4e (10)
+U2 R' (F2 R' F2 R') //HTR (16)
+(B2 D2 L2 B2 D2 R2 F2 U2) //Fin (24)
+
+
+38. 28 (Dec 29, 2025) 333.fm weekly A3 (2026-01)
+R' U' F D2 U2 B2 R2 F2 L2 D2 L D2 R U2 F' R' U R2 D B R D2 B L' R' U' F
+
+L' D (L' U)
+B F2 D2 F2 L R F2 R' F //2c3 6e (13)
+(F2 R%) B2 R2 D2 R'$ F2 R'$ //HTR (21)
+F2 U2 F2 L2 B2 U2 //LS (27)
+$=w, %=M2 //fin (28)
 
 39. 25 (Dec 29, 2025) 333.fm daily (2025-12-30)
 R' U' F R2 D L2 R2 B2 D' U' L2 D' R2 U' L' B' D' R2 F R' D L2 R2 B' R' U' F
@@ -350,10 +372,17 @@ R' (D' L)
 $=w, %=E2 //fin (26)
 
 
-44. (Dec 31, 2025) cubers.io A1
+44. 22 (Dec 31, 2025) cubers.io A1 (Dec 2025 week 5)
+R' U' F L2 B2 R2 F' D2 L2 B R2 D2 R2 B' R' D2 L' U F2 D2 L F D R' U' F
+
+(R2 F D L)
+(B' D' F' D) //2c4 6e (8)
+(F$) R2 D2 B'$ D2 B D2 B' //HTR (16)
+D2 R2 B2 D2 R2 D2 //LS (22)
+$=w //fin (22)
 
 
-45. 24(Jan 1, 2026) 333.fm daily (2026-01-01)
+45. 24 (Jan 1, 2026) 333.fm daily (2026-01-01)
 R' U' F R2 B2 D2 U2 F L2 F' L2 R2 U2 B' U' L' R' U L2 D2 F' R F' U R' U' F
 
 L' D' //RZP (2)
@@ -363,6 +392,34 @@ F2 L2$ F2 B2 D2 B2 D2 //LS (24)
 $=w //fin +0
 
 
-46. (Jan 1, 2026) cubers.io A2
-46. (Jan 1, 2026) cubers.io A3
+46. 24 (Jan 1, 2026) cubers.io A2 (Dec 2025 week 5)
+R' U' F D F2 L2 U R2 D' U2 L2 D' B2 F2 R' U B2 D B R F' L R' U' F
 
+D' R U' L
+F' U2 F2 L2 B' L2 B' U //4a1 4e (12)
+F' D2 L2 F' R2 L2 B' //HTR (19)
+D2 R2 F2 U2 F2 //lol it's linear (24)
+
+
+47. 24 (Jan 1, 2026) cubers.io A3 (Dec 2025 week 5)
+R' U' F R2 U' D F' L2 F2 U R D R B2 R L' F2 D2 R' F2 L F2 R' U' F
+
+D' U R' B U
+(B2 L U2 L2 F) //2c4 2e (10)
+F2 R F2 R' U2 B2 R' B2 R //2e2e (19)
+F U2 D2 B2 U2 D2 F //fin (24)
+
+
+48. 21 (Jan 4, 2026)
+R' U' F D2 F L2 B L2 D2 U2 B U L2 R' F D' L2 B D' F2 L2 D' F' R' U' F
+
+R'
+(F2 U) U2 D2 B L2 B2 U' //2c3 4e (9)
+(R2 F$ L2 F' L2 D2 B'$) //HTR (16)
+(D2 R2 F2$ R2 L2) //LS (21)
+$=w //fin (21)
+
+
+49. (Jan 4, 2026) 333.fm weekly A1 (2026-02)
+50. (Jan 4, 2026) 333.fm weekly A2 (2026-02)
+51. (Jan 4, 2026) 333.fm weekly A3 (2026-02)
