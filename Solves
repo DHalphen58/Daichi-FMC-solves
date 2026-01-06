@@ -305,9 +305,34 @@ F2 R U2 L2 U2 L' B2 L' F2 U2 L' //HTR (21)
 F2 U2 F2 D2 R2 //fin (26)
 
 
-32. (Dec 25, 2025) FMCL 8.9 A1
-33. (Dec 26, 2025) FMCL 8.9 A2
-34. (Dec 26, 2025) FMCL 8.9 A3
+32. 27 (Dec 25, 2025) FMCL 8.9 A1
+R' U' F U2 F' D2 B' R2 D2 B' U2 B D2 B2 L D' F' L' U2 B' F2 U' F2 L' R' U' F
+
+(F2 R F B')
+(D' R D2 U' L2 U' R D2 R') //4a2 4e (13)
+(F2 U') D2% R2 D2 F2 R2 F2 U$ //HTR (22)
+R2 B2 U2$ B2 //LS (26)
+$=E, %=E2 //FIN +1=27
+
+
+33. 23 (Dec 26, 2025) FMCL 8.9 A2
+R' U' F U2 F R2 B' U2 F2 D2 B' L2 F' L2 U2 F' U' F D2 B L' U2 R D R' U' F
+
+U' D' R
+(U R2 L2 D L2 D F) //4b2 4e (10)
+(L2 D' R2 U L2 U% F2 U') //HTR (18)
+(F2 R2 F2 B2) //LS (22)
+%=E2 //FIN (23)
+
+
+34. 23 (Dec 26, 2025) FMCL 8.9 A3
+R' U' F D2 B L2 F2 U2 R2 U2 B' R2 B' U2 B2 L' F' R F' D L2 B' R' B' R' U' F
+
+(L) F' D R'
+B2 L2 D' B2 D U2 F' //4b2 2e (11)
+U$ F2 L2 % R2 D [F2] //3e3e (17)
+[F B D2 F B' L2] //LS (21)
+$=E' %=E //fin (23)
 
 
 35. 24 (Dec 28, 2025)
@@ -357,9 +382,33 @@ L2 F2 U2 B2 R2 F2 R2 //LS (24)
 $=w %=E //fin (25)
 
 
-40. (Dec 29, 2025) speedsolving A1 (2026-01)
-41. (Dec 29, 2025) speedsolving A2 (2026-01)
-42. (Dec 30, 2025) speedsolving A3 (2026-01)
+40. 25 (Dec 29, 2025) speedsolving A1 (2026-01)
+R' U' F D' F' D B2 U2 D' R D2 F2 D B F2 L' D2 L U2 F2 R' L2 U2 R' U' F
+
+D' L' B' R U'
+L2 F2 R2 F2 R' B' //2c3 4e (11)
+(D2 R2 F2 R$ U2 R' U2 F2 R) //HTR (20)
+(B2 U2 R2$ F2) //LS (24)
+$=M2 //fin (25)
+
+
+41. 24 (Dec 29, 2025) speedsolving A2 (2026-01)
+R' U' F D L2 B D2 R2 U2 L' R F2 L' D2 U' R2 B2 R' D' B' U' F R' U' F
+
+(U L F)
+R' L, U' F2 R2 D' R' //2c3 6e (10)
+U$ R2 B2 U (R2 B2 R2 D') //HTR (18)
+(B' F U2 F' B') //LS (23)
+$=E2 //fin (24)
+
+
+42. 25 (Dec 30, 2025) speedsolving A3 (2026-01)
+R' U' F D F2 R2 B2 U2 B2 F2 R D' B L B' L' F2 D' R' B2 L2 B2 R' U' F
+
+(U' L' F' B)
+(U, L2 B2 L' D2 L' D) //2c3 6e (11)
+R2 B2 R D2 R' U2 B2 D2 B2 L //HTR (21)
+F2 U2 B2 R2 //fin (25)
 
 
 43. 26 (Dec 30, 2025) 333.fm daily (2025-12-31)
@@ -423,3 +472,4 @@ $=w //fin (21)
 49. (Jan 4, 2026) 333.fm weekly A1 (2026-02)
 50. (Jan 4, 2026) 333.fm weekly A2 (2026-02)
 51. (Jan 4, 2026) 333.fm weekly A3 (2026-02)
+52. (Jan 6, 2026) 333.fm daily (2026-01-06)
