@@ -472,4 +472,26 @@ $=w //fin (21)
 49. (Jan 4, 2026) 333.fm weekly A1 (2026-02)
 50. (Jan 4, 2026) 333.fm weekly A2 (2026-02)
 51. (Jan 4, 2026) 333.fm weekly A3 (2026-02)
+
+
 52. (Jan 6, 2026) 333.fm daily (2026-01-06)
+R' U' F B L F L' B' R' U R L F2 R2 B2 L2 D' R2 B2 R2 D2 L2 D' R' U' F
+
+D' F' U2 R
+D' (F L2 B2 U') //4c3 2e (9)
+(R2 B$ D2 B$) R2 F2$ R2 U2 B'% //HTR (18)
+U2 L2 D2 L2 B2$ U2 //LS (24)
+$=w %=S2 //fin (25)
+
+
+53. (Jan 7, 2026) 333.fm daily (2026-01-07)
+
+
+54. 22 (Jan 7, 2026)
+R' U' F R L2 D R' D' F' D' L B U2 F2 L B2 R' B2 U2 R' L2 D2 B2 R' U' F
+
+U L
+D F' U' B2 U R2 D' F' //4a1 2e (10)
+(R2 U$ B2 D) U2 F2 L2 U' //HTR (18)
+L2 B2 R2 y2 //LS (21)
+$=E2 //fin (22)
