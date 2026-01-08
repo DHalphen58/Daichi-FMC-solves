@@ -484,7 +484,14 @@ U2 L2 D2 L2 B2$ U2 //LS (24)
 $=w %=S2 //fin (25)
 
 
-53. (Jan 7, 2026) 333.fm daily (2026-01-07)
+53. 22 (Jan 7, 2026) 333.fm daily (2026-01-07)
+R' U' F D U' R2 U F2 U B2 D2 R2 U' B2 F' D' B U' R' F L2 B' L R' U' F
+
+L D' R L2 U
+(R2 B' F' R F2 D2 R') //2c3 2e (12)
+(D2 F'$ D2 B' L2 B'$) //double slice (18)
+(R2 U' D B2 D' U) //slice (22)
+$=w //fin (22)
 
 
 54. 22 (Jan 7, 2026)
@@ -495,3 +502,27 @@ D F' U' B2 U R2 D' F' //4a1 2e (10)
 (R2 U$ B2 D) U2 F2 L2 U' //HTR (18)
 L2 B2 R2 y2 //LS (21)
 $=E2 //fin (22)
+
+
+55. 22 (Jan 7, 2026)
+R' U' F U2 B2 D2 F2 R U2 R' U2 L' F2 R2 B' R B L2 U' R' B' L2 B2 F' R' U' F
+
+B' U R2 L' F
+(D2 F2 D' F2 D L) //2c3 2e (11)
+U B2 R2 U$ R2 F2 D //HTR (18)
+R2 L2 U2% //LS (21)
+$=w %=E //fin (22)
+
+
+56. 23 (Jan 8, 2026)
+R' U' F B R F U B D B D F R2 F R2 F U2 B' R2 F2 B U2 B R' U' F
+
+D2 L F'
+D2 R' (R2 U' R D' R) //2c3 6e (10)
+U'$ F2 L2 U' F2 L2 F2 B2 U$ //HTR (19)
+F2 U2 F2 U2 //LS (23)
+$=w //fin (23)
+
+
+57. (Jan 8, 2026) 333.fm daily (2026-01-08)
+
