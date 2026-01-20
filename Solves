@@ -589,8 +589,43 @@ F2 B2 D2 B2 R2 //LS (25)
 $=w %=E2 //fin (26)
 
 
-61. (Jan 12, 2026) FMCL 9.1 A1
-62. (Jan 13, 2026) FMCL 9.2 A2
-63. (Jan 14, 2026) FMCL 9.3 A3
+61. 22 (Jan 12, 2026) FMCL 9.1 A1
+R' U' F L B2 L2 B2 D R2 U' L2 B2 F2 L' D2 B U' F' U2 F' D' L' U R' U' F
 
-64. (Jan 15, 2026) 333.fm weekly A2 (2026-03)
+(B2 F D)
+(L F' U2 B' L) //2c3 2e (8)
+(B' U2 B2 U2 B U2 L2 F) //HTR (16)
+(R2 B2 L2 U2 R2 L2) //fin (22)
+
+
+62. 19 (Jan 13, 2026) FMCL 9.1 A2
+R' U' F R' B2 D' L' U' R2 F2 D' L2 F2 R2 D2 F2 U' L B2 F' D' R B' U' R' U' F
+
+(R2 F2 U')
+(R B' L2 D2 R2 F2 L B') //2c3 4e (11)
+(R2 U2 R$ U2 R F2 R'$ U2) //LS (19)
+$=w //fin (19)
+
+
+63. 23 (Jan 14, 2026) FMCL 9.1 A3
+R' U' F R' F L' F L2 D2 R2 D2 F U2 F' D2 F L2 R' D B2 U' F R' B' R' U' F
+
+(R D F)
+D2 R' D' R2 U' B2 D R //2c3 4e (11)
+D$ L2 U F2 U
+L2 U2$$$ L2 [D2] //double slice (20)
+[F B' R2 F B'] //slice (5-3/22)
+$=E //fin (23)
+
+
+64. 24 (Jan 15, 2026) 333.fm weekly A2 (2026-03)
+R' U' F R' D2 L F D R F D2 B2 R2 L2 D R2 F2 U R2 B2 D2 R2 U' R' U' F
+
+(U' L' U' R')
+(F R2 U' R2 F2 L2 U2 F) //4b2 2e (12)
+(D2 L2 U B2 U'$)
+(L2 B2 L2 B2 L2 D2$) //slice (23)
+$=E2 //+1=24
+
+65. (Jan 19, 2026) FMCL 9.2 A1
+66. (Jan 19, 2026) FMCL 9.2 A2
