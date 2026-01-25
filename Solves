@@ -631,3 +631,16 @@ $=E2 //+1=24
 66. (Jan 19, 2026) FMCL 9.2 A2
 67. (Jan 20, 2026) FMCL 9.3 A3
 68. (Jan 21, 2026) 333.fm weekly A1 (2026-04)
+69. (Jan 22, 2026) 333.fm weekly A2 (2026-04)
+
+70. 23 (Jan 25, 2026)
+R' U' F L2 R2 B2 D' F2 U' R2 U' F2 D U' B' R' U' B2 U' R2 B' F2 R' U' R' U' F
+
+(B2 U' L)
+D F2 D' B2 L2 U D F' //4a1 4e (11)
+(U2 R2 B2 U')
+(F2 R2 F2 L2 B2 U2 L2) //slice (22)
++1=23
+
+
+71. (Jan 25, 2026) 333.fm weekly A3 (2026-04)
