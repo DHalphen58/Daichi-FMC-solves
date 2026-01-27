@@ -628,9 +628,34 @@ R' U' F R' D2 L F D R F D2 B2 R2 L2 D R2 F2 U R2 B2 D2 R2 U' R' U' F
 $=E2 //+1=24
 
 
-65. (Jan 19, 2026) FMCL 9.2 A1
-66. (Jan 19, 2026) FMCL 9.2 A2
-67. (Jan 20, 2026) FMCL 9.3 A3
+65. 24 (Jan 19, 2026) FMCL 9.2 A1
+R' U' F U F' R2 D2 R2 B' F2 D2 L2 B' R' F D' R' B2 R2 D' U2 F R' U' F
+
+U' (D2 F2 U')
+(R') D2 B' F U2 F R //2c3 6e (11)
+(F) U2 R2 B'% U2 B%^
+R2# U2 L2$ U2 z2 //double slice (21)
+#=M' $=M //slice +2=23
+%=w, ^=S2 //fin +1=24
+
+
+66. 25 (Jan 19, 2026) FMCL 9.2 A2
+R' U' F L' D' B' F2 D F2 R2 U' F2 U' F2 L2 U B' L U2 R' B' R2 D' R' U' F
+
+(F' D) L' B D'
+L' (R2 F' D2 B F2 L) //2c3 2e (12) pretty blocky DR
+(U2 F U2 F2 D2 F' L2 U2 B)
+(R2 F2 L2 D2) //ok at least it's something (25)
+
+
+67. 24 (Jan 20, 2026) FMCL 9.3 A3
+R' U' F R2 F R' D2 B2 D2 L2 F2 R' U2 R2 D2 L2 F D L' R2 D F' U R' U' F
+
+U B D L
+B L2 D' R2 U2 D2 B' //4a2 4e (11)
+[U R2 D2 F2 U]
+R2 F2 B2 D2$ R2 F2 B2 //slice (23)
+[U' B2 D2 L2 U'$] $=E2 //fin (24)
 
 
 68. 27 (Jan 21, 2026) 333.fm weekly A1 (2026-04)
@@ -672,4 +697,8 @@ L (R2 U2 F B U2 B' L) //4b2 2e (12) literally the only DR i had that had a chanc
 (U2 L2 D2 L2) //double slice (23)
 LS in 25, +1=26
 
-72. (Jan)
+72. (Jan 25, 2026) 333.fm weekly A1 (2026-05)
+73. (Jan 26, 2026) FMCL 9.3 A1
+74. (Jan 26, 2026) FMCL 9.3 A2
+75. (Jan 27, 2026) FMCL 9.3 A3
+76. (Jan 27, 2026) 333.fm weekly A2 (2026-05)
