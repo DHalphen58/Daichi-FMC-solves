@@ -697,8 +697,65 @@ L (R2 U2 F B U2 B' L) //4b2 2e (12) literally the only DR i had that had a chanc
 (U2 L2 D2 L2) //double slice (23)
 LS in 25, +1=26
 
-72. (Jan 25, 2026) 333.fm weekly A1 (2026-05)
-73. (Jan 26, 2026) FMCL 9.3 A1
-74. (Jan 26, 2026) FMCL 9.3 A2
-75. (Jan 27, 2026) FMCL 9.3 A3
-76. (Jan 27, 2026) 333.fm weekly A2 (2026-05)
+
+72. 23 (Jan 25, 2026) 333.fm weekly A1 (2026-05)
+R' U' F D2 U2 F' L2 B' F2 D2 L2 R2 B' R2 F D' L' U2 R' B' L' D' U F R' U' F
+
+(U F' R')
+(D' F' D' F) //4c3 4e (7)
+(R2 L2 U' R2 U2 B2 U R2 U)
+(L2 F2 L2 F2 U2 F2 B2) //slice (23)
++0=23
+
+
+73. 26 (Jan 26, 2026) FMCL 9.3 A1
+R' U' F D' R2 B2 U L2 U L2 D2 R2 L' B' D F' D' F U2 L' B' R2 D' R' U' F
+
+(L) D' L
+F' D' (B2 L2 F L2 F U) //2c4 (11)
+B (F' R2 F U2 F)
+(D2 F2 U2 B2 R2 L2 U2 R2) //slice (25)
++1=26
+
+
+74. 27 (Jan 26, 2026) FMCL 9.3 A2
+R' U' F U R F B' U2 F' L2 U B2 L' F' R2 D2 F' R2 F B' L2 U' R' U' F
+
+U2 R (D' R')
+B' U' F2 U' D2 B' U2 B //2c4 (12)
+B2 D (F2 U L2 B2 U' L2 U')
+(R2 F2 U2 R2 F2) //slice (26)
++1=27
+
+
+75. 22 (Jan 27, 2026) FMCL 9.3 A3
+R' U' F R' D' F U2 R U2 F2 L2 D2 U2 B2 R D' L' B' R D R F2 R' U' F
+
+(R2 D' R' L')
+(D F' U') //4c3 (7) lol what... this is the first time my EO is longer than the DR
+(L2 F) D2 F D2 R2 U2 L2 F'
+U2 F2 L2 U2 D2 //slice (21)
++1=22
+
+
+76. 25 (Jan 27, 2026) 333.fm weekly A2 (2026-05)
+R' U' F R2 U B2 F2 D' L2 U R2 D2 L2 F' L R' U B2 R' F' D B' R' U' F
+
+F' B L'
+F (D2 L2 B2 U' F D' F) //2c3 (11)
+U (L2 U2 L2 U L2 D')
+(F2 R2 F2 R2 D2 L2) //slice (24)
++1=25
+
+
+77. 25 (Jan 31. 2026) 333.fm weekly A3 (2026-05)
+R' U' F B2 R2 B' U2 F2 U2 F2 L2 F D2 R2 D2 R D L' B R' F L' F L' R' U' F
+
+(B') L2 D2 F
+(D, R D2 L F2 R2 L2 D) //4c3 (12)
+(B2 R' B2 R' F2 R2 F2 D2 R)
+(D2 B2 D2 F2) //slice (24)
++1=25
+
+
+78. (Feb 2. 2026) FMCL 9.4 A1?
