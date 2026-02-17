@@ -828,11 +828,131 @@ L2 U2 F2 //slice (22)
 +1=23
 
 
-85. (Feb 9. 2026) FMCL 9.5 A1
-86. (Feb __. 2026) FMCL 9.5 A2
-87. (Feb __. 2026) FMCL 9.5 A3
+85. 21 (Feb 9. 2026) FMCL 9.5 A1
+R' U' F L B' D L2 U F2 R' U' R2 F' B' D' R2 F2 U2 R2 U R2 F2 D R' U' F
+
+D2 B R2 F
+L (F2 U' L') //4a2 4e (8)
+B2 U (B2 R2 B2 L2 U)
+L2 U2 R2 L2 F2 //slice (20)
++1=21
+
+
+86. 25 (Feb 11. 2026) FMCL 9.5 A2
+R' U' F U D' R' B U2 F U F2 R' F U' L2 F' U2 F2 L2 B' D2 F' D2 R' U' F
+
+L R' B' U2 R
+(U' D F2 L2 U' B) //4b2 4e (11)
+(U) L2 U2 B2 L2 B2 U
+F2 R2 F2 D2 B2 L2 //slice (24)
++1=25
+
+
+87. 23 (Feb 12. 2026) FMCL 9.5 A3
+R' U' F U' L2 B2 U L2 R2 B2 D L2 F2 D2 F' U' F' R' D' U2 B U2 B D2 R' U' F
+
+(F U' B')
+(D') R' L' D' R D //2c3 4e (9)
+L2 B2 R F2 L U2 F2 U2 D2 R'
+F2 D2 R2 //slice (22)
++1=23
+
+88. 23 (Feb 14, 2026) 333.fm weekly 2026-07 A1
+R' U' F U2 R2 U' R2 U2 B2 R2 F2 U' F2 D L D' L R D2 B' F U' R2 U R' U' F
+
+(B2 L2 F L')
+(U' D2 B F' D) //4c3 2e (9)
+U2 F' U2 F' L2 F2 R2 D2 F'
+D2 F2 L2 U2 R2 //slice (23)
++0=23
+
+
+For the Love of FMC USA 2026 (Feb 14,2026)
+89. 24 - A1
+R’ U’ F R F’ D F2 L B2 R B2 L D2 L2 U’ R B’ L’ B D2 R F’ R’ U’ F
+
+U F 
+U R’, F2 B2 U D2 R’ D2 R’ // 2c4 (11)
+(D F2 D B2 F2 R2 F2 U B2 U’)
+(B2 D2 L2) // slice (24) +0 = 24
+
+
+90. 20 - A2
+R’ U’ F L2 U2 F2 L’ F2 L’ D2 R’ U2 F U2 B L’ D’ B F2 L2 U’ R F R’ U’ F
+
+B2 L (F R’)
+D2 B2 D F2 U D’ B’ // 4b2 2e (11)
+F2 U F2 U’ L2 R2 U2 // slice (18) +2 = 20
+
+
+91. 22 - A3
+R’ U’ F U R’ B’ D’ B2 L F2 U L F L’ B2 R’ F2 L U2 R’ B R’ U’ F
+
+F2 U D2 L’
+(D2 F2 L2 D F) // 2c3 6e (9)
+(D) R2 F2 U [R2 U’]
+[L2 U2 R2 L2 U’] R2 F2 R2 L2 // slice (22) +0=22
+
+
+Oberlin Challenge I 2026 (Feb 15, 2026)
+92. 25 - R1 A1
+R' U' F R' F' B L F' R L U' F' U' L2 U2 L2 B2 U' D2 L2 B' U R' U' F
+
+B2 L B R' F'
+U F2 D2 R' F2 L2 U //4b2 2e (12)
+B2 D2 L F2 L
+F2 D2 L2 F2 U2 D2 F2 //slice (24) +1 = 25
+
+
+93. 21 - R1 A2
+R' U' F D F' D U2 R D2 U2 R2 F2 R' U2 L' D U' L B' U2 B2 U' R' U' F
+
+U F U F'
+L B2 L' R B2 L U' //4b2 4e (11)
+B2 L D2 F2 R’
+D2 F2 L2 U2 B2 //slice (21) +0 = 21
+
+
+94. 21 - R1 A3
+R' U' F D2 R2 D L B' D' R' D' B R' F2 U' B2 D' R2 U F R' U' F
+
+R U’ (L' U)
+(L F R2 B' L' B2 L’) //2c3 4e (11)
+(F2 D2 B’ D2 B’ R2 U2 B)
+(R2 L2) //slice + z2 rotation (21) +0 = 21
+
+
+95. 24 - R2 A1
+R' U' F R2 F2 R D2 F2 D R2 U R2 D L2 B D B2 L F' L U F R' U' F
+
+(F' R F2 U)
+(R F' R2 B2 L2 F' L’) // 4b2 2e (11)
+(U2 D2 B’ U2 B L2 U2 B2) //double slice (19) +3 on M and +2 on S = 24
+
+
+96. 25 - R2 A2
+R' U' F D' R D2 F2 L' R2 F2 R2 D2 R D U B L D2 B R2 B' F2 R' U' F
+
+D2 R' F' D'
+L U2 D2 B2 L2 F' L // 4a2 4e (11)
+D2 F L2 B2 D2 B’
+U2 D2 F2 U2 R2 U2 L2 U2 // slice (25) +0 = 25
+
+
+97. 22 - R2 A3
+R' U' F U F L2 B2 F' D2 B F R' D' L F L U B' F2 R B2 D R' U' F
+
+(B U') F' D
+(L) F U2 R2 B' L //4b2 2e (10)
+D2 B L2 F
+L2 B2 U D B2 U D //slice (21) +1=22
+
+
+98. (Feb 17, 2026) FMCL 9.6 A1
+99. (Feb __, 2026) FMCL 9.6 A2
+100. (Feb __, 2026) FMCL 9.6 A3
 
 
 
-
-
+???. (???) I was told this was a 10/10/10 beforehand
+R' U' F L2 R2 B U2 L2 R2 B2 F D2 B U2 F' L' D2 U' F L2 B D2 B D' R' U' F
