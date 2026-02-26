@@ -948,11 +948,42 @@ D2 B L2 F
 L2 B2 U D B2 U D //slice (21) +1=22
 
 
-98. (Feb 17, 2026) FMCL 9.6 A1
-99. (Feb __, 2026) FMCL 9.6 A2
-100. (Feb __, 2026) FMCL 9.6 A3
+98. 25 (Feb 17, 2026) FMCL 9.6 A1
+R' U' F R2 D' R' B2 D' B U F' B' D' R F2 B2 R2 U2 R' L2 U2 R D2 R' U' F
+
+(F2 B U B R)
+B2 R2 L2 D B' U //2c4 (11)
+(B R2 B R2 U2 D2 F' U2 F')
+L2 D2 B2 R2 L2 //slice (25) +0=25
 
 
+99. 24 (Feb 18, 2026) FMCL 9.6 A2
+R' U' F R2 D' R2 D' R2 D' L2 D' B2 D2 L' F2 U F R B' R2 D B' F2 R' U' F
 
-???. (???) I was told this was a 10/10/10 beforehand
+U' (F D' R D)
+(L2 U2 L' $ F' L B) //4b2 2e (11) (I found a 25 off of this)
+($=R2) //4b2 2e (12) inverting the L gives 0e
+R2 F2 U2 L [B2 R'] //looks bad but H perm gives good floppy
+[U2 D2 F2 L'] B2 R2 B2 U2 //slice (24) +0=24
+
+
+100. 23 (Feb 20, 2026) FMCL 9.6 A3
+R' U' F R2 D2 L2 F2 L U2 R' F2 R' D F' U2 B U' L' D2 R D' L2 B' R' U' F
+
+R' B
+U D2 R D2 B2 D' L2 U' L //2c4 (11)
+R2 U R2 U' F2 R2 U' F2 U'
+R2 L2 F2 //slice (23) +0=23
+
+
+101. (Feb 26, 2026) 10/10/10 lol
 R' U' F L2 R2 B U2 L2 R2 B2 F D2 B U2 F' L' D2 U' F L2 B D2 B D' R' U' F
+
+(B) L' F' U' B
+(R L U' D R) //2c4 (10)
+(D' L2 U B2 U B2 U2 L2 U')
+(B2 R' L' U2 R L) //slice (25) +0 = 25
+
+102. (Feb 26, 2026) FMCL 9.7 A1
+103. (Feb __, 2026) FMCL 9.7 A2
+104. (Feb __, 2026) FMCL 9.7 A3
