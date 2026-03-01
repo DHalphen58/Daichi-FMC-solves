@@ -976,7 +976,7 @@ R2 U R2 U' F2 R2 U' F2 U'
 R2 L2 F2 //slice (23) +0=23
 
 
-101. (Feb 26, 2026) 10/10/10 lol
+101. 25 (Feb 26, 2026) 10/10/10 lol
 R' U' F L2 R2 B U2 L2 R2 B2 F D2 B U2 F' L' D2 U' F L2 B D2 B D' R' U' F
 
 (B) L' F' U' B
@@ -984,6 +984,7 @@ R' U' F L2 R2 B U2 L2 R2 B2 F D2 B U2 F' L' D2 U' F L2 B D2 B D' R' U' F
 (D' L2 U B2 U B2 U2 L2 U')
 (B2 R' L' U2 R L) //slice (25) +0 = 25
 
+
 102. (Feb 26, 2026) FMCL 9.7 A1
-103. (Feb __, 2026) FMCL 9.7 A2
-104. (Feb __, 2026) FMCL 9.7 A3
+103. (Feb 26, 2026) FMCL 9.7 A2
+104. (Mar 1, 2026) FMCL 9.7 A3
