@@ -985,7 +985,340 @@ R' U' F L2 R2 B U2 L2 R2 B2 F D2 B U2 F' L' D2 U' F L2 B D2 B D' R' U' F
 (B2 R' L' U2 R L) //slice (25) +0 = 25
 
 
-102. (Feb 26, 2026) FMCL 9.7 A1
-103. (Feb 26, 2026) FMCL 9.7 A2
-104. (Mar 1, 2026) FMCL 9.7 A3
-105. (Mar 1, 2026) 333.fm weekly (2026-10) A1
+102. 24 (Feb 26, 2026) FMCL 9.7 A1
+R' U' F R2 D' F2 D' R2 L2 F' D2 R L' U' R2 U2 D2 B D2 L2 B U2 R' U' F
+
+L' U' F' R B'
+R' (B2 R' U2 B2 R) //2c4 (11) 4 variations
+(D R2 U R2 U' L2 F2 U)
+(L2 D2 F2 B2) //slice (23) +1=24
+
+
+103. 25 (Feb 26, 2026) FMCL 9.7 A2
+R' U' F R2 B2 U' R' F' U' B L2 F2 U2 R' U R2 U' D2 F2 U R2 U' F2 R' U' F
+
+(U' R') U' R
+B (F D2 F2 D2 L2 F) //0c3 8e (11) 4 variations
+B2 U (L2 F2 U' B2 U2 B2 R2 D')
+(L2 F2 U2 R2 F2) //fin
+
+
+104. 24 (Mar 1, 2026) FMCL 9.7 A3
+R' U' F U2 L' B' R' D2 F B R D2 B' D2 F2 U B2 U R2 U D2 B2 R' U' F
+
+L B' U D R
+D' R2 B2 U' F //0c4 4e (10)
+D L2 D (B2 U' B2 D2 F2 L2 F2 D)
+(R2 D2 F2) //slice (24) +0=24
+
+
+105. 25 (Mar 1, 2026) 333.fm weekly (2026-10) A1
+R' U' F D2 R2 D U' F2 D R2 D' F2 L' B L' D2 F' L' U L2 U F2 U' R' U' F
+
+(F D' L F' U)
+F' U2 R2 F' L' B2 R' //2c3 4e (12)
+B' L2 F R2 D2 R2 L2 F
+D U' F2 U D // slice (23) +2=25
+
+106. 22 (Mar 1, 2026) 333.fm weekly (2026-10) A2
+R' U' F D2 R2 U2 F L2 U2 B2 D2 F2 U2 F' U F' L' D U2 F' U' L' F' L' R' U' F
+
+D' B (L' D B')
+(D2 L2 F2 L' U') //4b2 2e (10)
+(D2 F2 L) D2 L2 U2 F2 L'
+F2 B2 R2 F2 //slice (22) +0=22
+
+107. 25 (Mar 4, 2026) FMCL 9.8 A1
+R' U' F U R2 F' R2 B' D2 B2 F' L2 F2 L2 D2 U' B U2 F U' B' L B R' U' F
+
+(L' U' B' L2 D')
+L' R' F2 B' L' B //4a2 2e (11)
+(R' F2 R2 D2 F2 D2 F2 L')
+(U2 F2 L2 F2 L2 U2) //slice (25) +0=25
+
+
+108. 22 (Mar 7, 2026) FMCL 9.8 A2
+R' U' F U D2 R2 B R U2 L2 F' R U' L2 B2 D2 R2 U' F2 R2 U B2 U' R' U' F
+
+(R) F2 R'
+D2 F' (U2 F2 B2 D' F') //2c4 (10)
+B2 D' (U' F2 U' F2 U')
+(L2 F2 D2 L2 B2) //slice (22) +0=22
+
+109. 23 (Mar 7, 2026) FMCL 9.8 A3
+R' U' F L' F2 D' B2 U' B2 L' F2 U' F2 D2 B2 R' F2 L2 F2 D2 B' R' U' F
+
+R2 U B' D2 L'
+F D' B' D2 F D //2c3 4e (11)
+(F' L2 F R2 U2 F')
+(U2 R2 D2 R2) //double slice + z2 (21) +2=23 wow
+
+
+110. 22 (Mar 8, 2026) 333.fm weekly (2026-10) A3
+R' U' F L B U' D R D F L F2 L' D2 B' R2 B2 U2 D2 L2 B U2 F' U2 R' U' F
+
+F B' (U B)
+D (D2 R' L' U2 L D') //4c3 2e (11)
+(L) B2 U2 D2 R B2 R'
+U2 L2 B2 D2 B2 D2 //slice (24) +0=24
+
+
+111. 24 (Mar 9, 2026) FMCL 9.9 A1
+R' U' F L' D2 B' D L' B' U' R' B R B2 R' D2 F2 D2 F2 R2 B2 L U2 R' U' F
+
+(D) U2 L2 D'
+B' L D2 F2 L' R2 B' //2c3 4e (11)
+(U2 R U2 R F2 D2 R')
+(U2 B2 U2 B2 L2 D2) //fin (24)
+
+
+112. 23 (Mar 9, 2026) FMCL 9.9 A2
+R' U' F L' F' R2 B D2 R2 F' D2 F U2 B2 U R' U' F' L D' B' R2 B R' U' F
+
+(L) U2 F2 B' R'
+(B D2 B L2 F2 U) //4a3 (11)
+(B2 L2 B' R2 F2 D2 F D2 F)
+(D2 L2 D2) //slice (23) +0=23 
+
+
+113. 22 (Mar 10, 2026) FMCL 9.9 A3
+R' U' F L' D2 R B L2 D2 B R2 F L2 U' R' B' R2 U F' R F2 R' U' F
+
+(U L2 B D)
+(B R) F' L2 B U2 B L' //4b2 2e (12)
+(F' D2 B')
+(L2 U2 L2 D2 R2 B2 D2) //fin (22)
+
+
+114. 21 (Mar 13, 2026) 333.fm weekly (2026-11) A1
+R' U' F U L U' D2 L2 U2 B' D' L D2 R' F2 R D2 L' F2 U2 L2 U2 B2 R' U' F
+
+(R L) F' R'
+B (B2 U2 F2 D' L2 U2 B) //4b2 2e (12)
+U R2 D
+L' R U2 R' L' F2 B2 //fin (21)
+
+
+114. 25 (Mar 17, 2026) 333.fm weekly (2026-12) A1
+R' U' F U2 F' D B U2 F' L' D R B2 R' F2 U2 B2 L U2 L2 F2 U2 L D2 R' U' F
+
+L' (R' D' R)
+(B) U2 V2 U2 R2 F //2c3 4e (10)
+(U2 F2 U' F2 U' R2 F2 D)
+(F2 D2 B2 U2 R2 F2 L2) //slice (25) +0=25
+
+
+115. 21 (Mar 17, 2026) 333.fm weekly (2026-12) A2
+R' U' F U2 B2 L2 F2 L2 F L2 B L2 F' R' F' D' L' D' B' U R2 D' R' F' R' U' F
+
+B U' L' B
+U' R2 U2 R' B2 U' //4b2 2e (10)
+(F2 U2 B2 L U2 R)
+(D2 B2 L2 D2) //slice (20) +1=21
+
+
+115. 24 (Mar 18, 2026) 333.fm weekly (2026-12) A3
+R' U' F D U B2 D2 L2 U B2 R2 B2 L2 U B F' U' L F' D' B2 L U R' U' F
+
+U2 R (B' R)
+(B2 U F2 L2 B U' F) //4a1 4e (11)
+D' F2 L2 F2 U' R2 U
+B2 D2 B2 R2 B2 //slice (23) +1=24
+
+
+116. 18 (Mar 18, 2026) 333.fm daily (2026-3-19)
+R' U' F R2 B2 U' F2 D2 R2 D B2 R2 U2 B2 F' U2 B' R D2 U2 B D2 B2 L2 R' U' F
+
+(F B R')
+(U) F' R2 L2 F' D' //2c3 (9)
+B (F' R2 F')
+(U2 L2 D2 B2 R2) //slice (18) +0=18
+
+
+117. 22 (Mar 18, 2026)
+R' U' F B U2 R2 D2 L2 B' D2 F2 L2 R2 U2 B D2 R' U' L' B D' R U' F R' U' F
+
+(L' U F R D)
+(B' D2 F B' L F2 L) //4c3 (12)
+(F' L2 B R2 F2 L2 U2 B')
+(U2 B2) //slice (22) +0=22
+
+
+118. 25 (Mar 18, 2026)
+R' U' F D2 R D F D B' U L2 B2 L' D2 R2 U2 L' U2 R' D2 B2 R' B2 L2 R' U' F
+
+F2 L B U'
+F L' (L U2 R' U2 R') //4b2 4e (11)
+(B' D2 F L2 F R2 L2 B)
+(R2 D2 B2 U2 R2 B2) //slice (25) +0=25 
+
+
+119. 24 (Mar 19, 2026)
+R' U' F U R2 D B2 F2 D B2 D F2 D2 F L D B' L F L R D U' B R' U' F
+
+(R L) L D2 R
+U2 R2 D R2 F //2c3 4e (10)
+(B2 U' L2 U' L2 F2 D)
+(L2 U2 F2 L2 B2 R2) //slice (23) +1=24
+
+
+120. 22 (Mar 20, 2026) 333.fm daily (2026-3-20)
+R' U' F D' U' L2 D2 R2 F2 R2 D' R2 D' B2 R' F L' R2 D B' U L' B2 R' U' F
+
+(R' L2 U L')
+(D) U' F U2 B' U // 2c3 4e (10)
+(B R2 D2 B R2 B)
+(R2 B2 R2 F2 U2 R2) // slice (22) +0 = 22
+
+
+Ohio State Mental Madness 2026 (Mar 20, 2026)
+121. 24 R1-A1
+R' U' F R2 F D2 L' U2 B2 R' F2 R U2 B2 D F2 U' L B2 U B' D' R' U' F
+
+(U R' L2 D' L)
+R2 F' D' B //2c3 (9)
+(R2 U R2 U' L2 U')
+(B2 L2 F2 L2 F2 D2 F2 L2) //slice (23) +1=24
+
+
+122. 22 R1-A2
+Scramble
+R' U' F R' F U B R B2 L2 B2 F2 D L2 D' R' B2 L2 F2 U F U R' U' F
+
+B' U' F' R'
+F' (L2 U' D R2 D U2 F) //4b2 2e (12)
+(L2 F2 U' F2 U')
+(B2 L2 U2 R2 L2) //lol (22)
+
+
+123. 21 R1-A3
+R' U' F L2 F U' B2 L U D B R2 F2 U' L2 F2 B2 U2 D' L2 B' U R' U' F
+
+F' D' L2 F
+R' (U F2 R' F2 D2 L') //2c3 4e (11)
+U (F2 U' B2 U)
+(L2 B2 R2 B2 R2) //slice (21) +0=21
+
+
+124. 24 R2-A1
+R' U' F U F' B R2 U2 L D F B2 D2 F2 U2 R2 L' F2 L' U2 L2 D' R' U' F
+
+(R') D' B2 L
+(D F2 U2 B') //4b4 (8)
+(U R2 U) U2 F2 L2 U' F2 U
+F2 L2 B2 L2 U2 L2 F2 //slice (24) +0=24
+
+
+125. 23 R2-A2
+R' U' F U' L2 D F2 D' F2 U2 F' U B D2 U B2 R U L2 D B R' U' F
+
+R2 D B'
+D L' (D L2 D B2 U' L) //2c3 2e (11)
+(B2 D' L2 B2 U' B2 U)
+(L2 D2 L2 B2) //slice (22) +1=23
+
+
+126. 22 R2-A3
+R' U' F L2 B2 D' L2 F2 B L U2 F' L' U2 R' F2 L B F' D2 R' U' F
+
+(L) L U2 L
+D (D2 F2 U) //2c4 (8)
+(F) F' U2 F R2 U2 F
+D2 F2 U2 D2 R2 U2 D2 //slice (22) +0=22
+
+
+127. 23 (Mar 21, 2026) tribox contest 2026-1-11
+R' U' F R2 F2 D2 L' R B2 U2 L' D2 U2 F D B R F2 D' F U' F' R F2 R' U' F
+
+R U B2 D' L
+(B' D2 B' D F D) //2c3 4e (11)
+(U2 B') D2 F' D2 F'
+L2 D2 L2 F2 U2 //slice (22) +1=23
+
+
+128. 25 (Mar 23, 2026) FMCL 10.1 A1
+R' U' F L F2 U2 F2 U' B2 F2 L2 U F R D' F D F2 D L' R D' R' U' F
+
+(B D L B2 R')
+(D F2 B' D U2 F) //2c4 (11)
+(D' F2 D F2 B2 R2 U' F2 U)
+(F2 L2 B2 R2 D2) //slice (25) +0=25
+
+
+129. 24 (Mar 23, 2026) FMCL 10.1 A2
+R' U' F R U B2 F U F2 U B2 U' L2 D' U2 F2 L' U' F' D2 F2 L2 F R' U' F
+
+(U F' U)
+(R') B R' //2c5 (6) lol
+(B' L2 F U2 L2 B R2 B' R2 B')
+(R2 D2 B2 L2 U2 L2 U2) //slice (23) +1=24 sad
+
+
+130. 26 (Mar 24, 2026) FMCL 10.1 A3
+R' U' F U F L2 U2 F' D2 B' U2 B2 U2 R2 B2 L F' U2 R' D U' L U R' U' F
+
+(L' U' B)
+(U' R' B2 U R2 D' L2 U' L) //4a2 4e (12)
+F2 U' R2 U2 L2 F2 D'
+B2 L2 U2 F2 B2 R2 // slice (25) +1=26
+
+
+131. 22 (Mar 25, 2026) 333.fm weekly (2026-13) A1
+R' U' F D R2 L D F R2 U B' D B2 L B2 R F2 B2 L B2 R2 U2 R' F2 R' U' F
+
+B' F' D
+L F' B2 D2 L' F2 D2 L' //4a2 4e (11) 8 variations wtf I bounded the hell outa this
+B (L2 U2 R2 U2 B)
+(U2 L2 F2 U2 R2) //lol (22)
+
+
+132. 24 (Mar 29, 2026) tribox contest 2026-1-12
+R' U' F D2 R2 F2 L U2 R U2 R D2 R' D' U' L' D2 R' D L2 F' D2 F R' U' F
+
+F2 R U2 B
+L D2 L2 U L F2 L //4a3 (11)
+(L2 U' R2 F2 U F2 U2 L2 D)
+(R2 U2 R2 F2) // slice (24) +0=24
+
+133. 23 (Mar 29, 2026) 333.fm weekly (2026-13) A2
+R' U' F B2 D2 L2 B2 U2 L2 R2 F2 D' U F2 U' F U' F' U' F U' L' F' U' R' U' F
+
+(L) U' R
+(U' B) U' L2 D2 B2 D F' //4b2 2e (11)
+U' R2 B2 [F2 D]
+[D2 F2 D2 F2 D'] //extend
+F2 B2 L2 F2 //fin (23)
+
+
+134. 26 (Mar 29, 2026) 333.fm weekly (2026-13) A3
+R' U' F L' U' R U2 R2 D' R L2 U B2 D2 F' D2 R2 D2 B' R2 U2 R' U' F
+
+L' B D R
+F U F2 B2 D B2 U' B /2c3 4e (12)
+D (F2 D2 F2 U R2 F2 D')
+(R2 D2 L2 D2 L2 B2) //slice (26) +0=26
+
+
+
+4/4 tribox contest 2026-1-13
+4/11 tribox contest 2026-1-14
+4/18 tribox contest 2026-1-15
+4/25 tribox contest 2026-1-16
+5/2 tribox contest 2026-1-17
+5/9 tribox contest 2026-1-18
+5/16 tribox contest 2026-1-19
+5/23 tribox contest 2026-1-20
+5/30 tribox contest 2026-1-21
+6/6 tribox contest 2026-1-22
+6/13 tribox contest 2026-1-23
+6/20 tribox contest 2026-1-24
+6/27 tribox contest 2026-1-25
+7/4 tribox contest 2026-1-26
+7/11 tribox contest 2026-2-1
+7/18 tribox contest 2026-2-2
+7/25 tribox contest 2026-2-3
+8/1 tribox contest 2026-2-4
+8/8 tribox contest 2026-2-5
+8/15 tribox contest 2026-2-6
+8/22 tribox contest 2026-2-7
+
