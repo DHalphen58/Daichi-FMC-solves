@@ -2158,3 +2158,14 @@ R' U' F R2 B' D2 L2 F2 U2 F2 U2 L2 R F' L' D L2 F D U2 F2 L' U R' U' F
 (U2 F' L2 F') //2c4 (8)
 F2 D (D' B2 U R2 U')
 (B2 R2 D2 B2 R2) //slice (20)+0
+
+
+233. 21 (Sep 1, 2026) MCA server SOTW
+R' U' F U F U' B D2 B L2 F2 R2 F D2 F' R U' F2 D U2 R' U' R' U' F
+
+(D2 B' D' R)
+F' R2 F' //2c5 (7) ok lol
+(B2 U' F2 D) U' R2 U B2 U
+F2 L2 U2 B2 R2 //slice (21)+0
+
+234. (Sep x, 2026) tribox contest 2026-2-9
