@@ -2178,4 +2178,19 @@ B2 D2 R2 U' F2 U
 L2 U2 F2 D2 L2 //slice (22)+0
 
 
-235.
+235. 19 (Sep 12, 2026) tribox contest 2026-2-10
+R' U' F U R2 U' B2 D' R2 D2 L2 F2 D R' U' L' D' F L' B L2 D B' D2 R' U' F
+
+L (U F2 L)
+(U' D) F U2 B2 R2 F2 U //4b2 2e (12)
+B R2 F
+D R2 F2 B2 L2 U' //19
+
+
+236. 23 (Sep 19, 2026) tribox contest 2026-2-11
+R' U' F L2 R2 U2 L2 R2 D L2 D U2 B2 L2 F' U' B F2 R U L2 B' U R' U' F
+
+F' (R' L' U' B)
+(L) U2 L2 R' U' R //2c4 (11)
+B2 D' L2 D' R2 U F2 U'
+R2 D2 F2 L2 //ds (22) +1
