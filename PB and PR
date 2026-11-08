@@ -1,0 +1,27 @@
+Single: 17
+
+- R' U' F D2 L2 F2 L' D2 R' U2 F2 U2 L' D U' L F2 U R' B U R2 F R' U' F
+(B)
+L' (F2 U' F2 L') //2c3 4e (6)
+(D') D2 L2 U F2 U
+B2 D2 R2 F2 R2 //ok (17)
+
+
+mo3: 22,17,21 = 20.00
+- R' U' F U2 F2 D2 B2 L2 U2 R B2 U2 R2 D' B F' D2 F R2 B U R D2 F2 R' U' F
+F' (B2 R' F')
+L (U' F2 L U2 L) //2c3 6e (10)
+D' L2 F2 U F2 B2 U2 L2 D
+L U2 D2 L2 D2 U2 L //(7-4) slice 22 +0
+
+- R' U' F D2 L2 F2 L' D2 R' U2 F2 U2 L' D U' L F2 U R' B U R2 F R' U' F
+(B)
+L' (F2 U' F2 L') //2c3 4e (6)
+(D') D2 L2 U F2 U
+B2 D2 R2 F2 R2 //ok (17)
+
+- R' U' F R2 U L2 B2 F2 U F2 U' L2 U' F2 R' F' U' F' R2 D' R2 D2 F' R' U' F
+(U' F') U R F
+U' L2 D2 L D' R2 D //4a1 4e (12)
+(R' D2 R U2 B2 U2 R)
+(D R2 D2 R2 D2 R2 D) //slice (26-5=21, +0=21)
